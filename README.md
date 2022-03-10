@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center">   𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
-<img src="https://github.com/Chi20/Chi20/blob/main/assets/giphy.gif" align="right" width="150px">
+<img src="https://github.com/Chi20/Chi20/blob/main/assets/giphy.gif" align="right" width=400>
 <li>
 <b>Name:</b> Chi</li>
 <br>
@@ -16,7 +16,6 @@
 </li>
 <br>
 <li>
-
 <b>Cyborg anthropology</b> 
 </li>
 <br>
