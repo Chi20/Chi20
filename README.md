@@ -53,13 +53,19 @@
 
 <p align="center"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab"/> <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket/>
- 
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab"/> 
+ <p align="center">
+  <a href="https://github.com/Chi20"><img src="https://github-readme-stats.vercel.app/api?username=Chi20&hide_border=true&show_icons=true" alt="Chi20's github stats"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Chi20"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chi20&hide=TeX&layout=compact" alt="Chi20's Top languages"></a>
+</p>
  <br>
 
 </p>
+<!-- 
 <br>
-<h2>            𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 </h2>
+<h2>            𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 </h2> -->
 
 </div>
 <br>
@@ -77,12 +83,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/Chi20"><img src="https://github-readme-stats.vercel.app/api?username=Chi20&hide_border=true&show_icons=true" alt="Chi20's github stats"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Chi20"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chi20&hide=TeX&layout=compact" alt="Chi20's Top languages"></a>
-</p>
+
 
 
 
