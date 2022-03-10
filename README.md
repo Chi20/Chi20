@@ -7,26 +7,28 @@
 <br>
 <div>
 <h2 align="center">   𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
-<img src="https://github.com/Chi20/Chi20/blob/main/assets/giphy.gif" align="right">
+<img src="https://github.com/Chi20/Chi20/blob/main/assets/giphy.gif" align="right" width="150px">
 <li>
 <b>Name:</b> Chi</li>
-
+<br>
 <li>
 <b>Hobbies:</b> ACGN
 </li>
+<br>
 <li>
+
 <b>Cyborg anthropology</b> 
 </li>
-
+<br>
 <li>
 <b>Studying @:</b> BUCT | buct.edu.cn
 </li>
-
+<br>
 </div>
 <div>
 <h2 align="center">              𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝔂  </h2>
 <p>
-<img src="https://github.com/Chi20/Chi20/blob/main/assets/giphy.gif" align="right">
+<img src="https://github.com/Chi20/Chi20/blob/main/assets/soul.gif" align="right">
 </div>
 <div>
 
