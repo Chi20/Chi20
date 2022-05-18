@@ -43,13 +43,16 @@
 <!-- 
 <br>
 <h2>            𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 </h2> -->
-
+ 
+ <p align="center">
+  <a href="https://github.com/Chi20"><img src="https://github-readme-stats.vercel.app/api?username=Chi20&hide_border=true&show_icons=true" alt="Chi20's github stats"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Chi20"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chi20&hide=TeX&layout=compact" alt="Chi20's Top languages"></a>
+</p>
+</p>
 </div>
 <br>
-  <br>
-  <br>
- <br>
-
 <div>
  
 <h2 align="center">💖  𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰  </h2>
