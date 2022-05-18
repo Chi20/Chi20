@@ -38,9 +38,6 @@
    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/> <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/><img src=" https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker"/><br>
       <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=for-the-badge&logo=microsoft-azure"/><img src=" https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud"/><br>
 
-<p align="center">
-  <a href="https://github.com/Chi20"><img src="https://github-readme-stats.vercel.app/api?username=Chi20&hide_border=true&show_icons=true" alt="Chi's github stats"></a>
-</p>
 
 </p>
 <!-- 
