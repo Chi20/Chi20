@@ -20,7 +20,7 @@
 </li>
 <br>
 <li>
-<b>Studying @:</b> BUCT | buct.edu.cn
+<b>Studying @:</b> BUCT-> RUC | ruc.edu.cn
 </li>
 <br>
 </div>
