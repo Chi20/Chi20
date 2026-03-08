@@ -20,7 +20,7 @@
 </li>
 <br>
 <li>
-<b>Studying @:</b> BUCT-> RUC | ruc.edu.cn
+<b>Studying @:</b>  RUC PhD | ruc.edu.cn
 </li>
 <br>
 </div>
@@ -73,7 +73,4 @@
 
 
 # <img height="40" src="https://github.com/Chi20/Chi20/blob/main/assets/kyubey.gif"/> Links
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/)
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/XXXX/badges)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/zhiyuan-ji-ruc/)
